@@ -24,7 +24,8 @@ The script relies on some helper tools (called libraries) to run. It will check 
 To install them, open your command prompt (or terminal) and run:
 
 ```bash
-pip install psutil watchdog colorama ```
+pip install psutil watchdog colorama
+```
 
 If you're unsure what `pip` is, don't worry! The script will guide you if you don't have it installed.
 
