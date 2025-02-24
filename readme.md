@@ -118,7 +118,9 @@ This modification ensures the script correctly interprets the file paths.
 ### **Missing Libraries**
 If the script reports that a library is missing (e.g., "Error: Library 'psutil' is missing"), simply follow the suggestion and install it using pip:
 
+```
 pip install <library-name>
+```
 
 
 ### **FFmpeg Not Installed**
