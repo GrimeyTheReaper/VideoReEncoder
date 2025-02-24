@@ -41,7 +41,7 @@ This modification ensures the script correctly interprets the file paths.
 
 ### 4\. Prepare the Folders
 
--   Place the script (`VideoReEncoder.py`) in any folder you like.
+-   Place the script (`VideoReEncoder.py`) AND the cfg file (`config.json`) in any folder you like.
 -   Create a folder where your MP4* (downloaded files) will go, called `INPUT_FOLDER`, and add some MP4* videos to it.
 -   Create another folder where the re-encoded videos will be saved, called `OUTPUT_FOLDER`.
 
