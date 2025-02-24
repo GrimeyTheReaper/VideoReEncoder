@@ -1,3 +1,5 @@
+## If you're visiting this on my github.io website; [here](https://github.com/GrimeyTheReaper/VideoReEncoder/releases/latest) is the latest build! :)
+
 # MP4 Reencoder Script
 *(WITH .AVI AND .MKV SUPPORT)*
 
@@ -6,8 +8,6 @@ This script helps you re-encode MP4* videos. It monitors a folder for new MP4 fi
 It's like having a magical robot that waits for your videos, makes them better (or changes how they look), and then stores them in a special folder for you. Cool, right?
 
 ## DEV NOTE: THIS SHOULD WORK ON ALL BROWSERS, I MYSELF HAVE ONLY TESTED IT WITH FIREFOX & CHROME! PLEASE LET ME KNOW [HERE](https://github.com/GrimeyTheReaper/VideoReEncoder/issues) IF THERE ARE ANY PROBLEMS WITH YOUR PARTICULAR BROWSER OF CHOICE!
-
-# If you're visiting this on my github.io website; [here](https://github.com/GrimeyTheReaper/VideoReEncoder/releases/latest) is the latest build! :)
 
 ## How to Use the Script
 
