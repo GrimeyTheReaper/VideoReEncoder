@@ -19,7 +19,7 @@ If you don't have Python installed on your computer, you need it. You can get it
 
 ### 2. Install Required Libraries
 
-The script relies on some helper tools (called libraries) to run. It will check if they are installed when you run it, and if not, it will notify you which ones are missing.
+The script relies on some helper tools (called libraries) to run. It will check if they are installed when you run it, and if not, it will notify you which ones are missing. **ADDED AUTOMATIC INSTALLER INSIDE THE RUNNING SCRIPT FOR LIBRARIES (MIGHT NOT WORK THO)**
 
 To install them, open your command prompt (or terminal) and run:
 
@@ -118,7 +118,6 @@ This modification ensures the script correctly interprets the file paths.
 ### **Missing Libraries**
 If the script reports that a library is missing (e.g., "Error: Library 'psutil' is missing"), simply follow the suggestion and install it using pip:
 
-`pip install <library-name>`
 
 
 ### **FFmpeg Not Installed**
