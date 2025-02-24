@@ -24,8 +24,7 @@ The script relies on some helper tools (called libraries) to run. It will check 
 To install them, open your command prompt (or terminal) and run:
 
 ```bash
-pip install psutil watchdog colorama
-```
+pip install psutil watchdog colorama ```
 
 If you're unsure what `pip` is, don't worry! The script will guide you if you don't have it installed.
 
@@ -118,6 +117,7 @@ This modification ensures the script correctly interprets the file paths.
 ### **Missing Libraries**
 If the script reports that a library is missing (e.g., "Error: Library 'psutil' is missing"), simply follow the suggestion and install it using pip:
 
+pip install <library-name>
 
 
 ### **FFmpeg Not Installed**
