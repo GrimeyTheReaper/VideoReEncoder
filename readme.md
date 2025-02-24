@@ -41,7 +41,7 @@ This modification ensures the script correctly interprets the file paths.
 
 ### 4\. Prepare the Folders
 
--   Place the script (`VideoEncoderV2.py`) in any folder you like.
+-   Place the script (`VideoReEncoder.py`) in any folder you like.
 -   Create a folder where your MP4* (downloaded files) will go, called `INPUT_FOLDER`, and add some MP4* videos to it.
 -   Create another folder where the re-encoded videos will be saved, called `OUTPUT_FOLDER`.
 
@@ -114,7 +114,7 @@ This modification ensures the script correctly interprets the file paths.
 ### **Missing Libraries**
 If the script reports that a library is missing (e.g., "Error: Library 'psutil' is missing"), simply follow the suggestion and install it using pip:
 
-pip install <library-name>
+`pip install <library-name>`
 
 
 ### **FFmpeg Not Installed**
