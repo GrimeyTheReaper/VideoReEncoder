@@ -7,7 +7,7 @@ It's like having a magical robot that waits for your videos, makes them better (
 
 ## DEV NOTE: THIS SHOULD WORK ON ALL BROWSERS, I MYSELF HAVE ONLY TESTED IT WITH FIREFOX & CHROME! PLEASE LET ME KNOW [HERE](https://github.com/GrimeyTheReaper/VideoReEncoder/issues) IF THERE ARE ANY PROBLEMS WITH YOUR PARTICULAR BROWSER OF CHOICE!
 
-#If you're visiting this on my github.io website; [here](https://github.com/GrimeyTheReaper/VideoReEncoder/releases/latest) is the latest build! :)
+# If you're visiting this on my github.io website; [here](https://github.com/GrimeyTheReaper/VideoReEncoder/releases/latest) is the latest build! :)
 
 ## How to Use the Script
 
