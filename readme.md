@@ -18,7 +18,8 @@ The script relies on some helper tools (called libraries) to run. It will check 
 To install them, open your command prompt (or terminal) and run:
 
 ```bash
-pip install psutil watchdog colorama ```
+pip install psutil watchdog colorama
+```
 
 If you're unsure what `pip` is, don't worry! The script will guide you if you don't have it installed.
 
@@ -33,6 +34,26 @@ In some cases, especially for Windows users, you may need to adjust the paths in
 -   Ensure that each backslash is doubled. For example:
     -   Original: `C:\Users\YourName\Videos\Downloads`
     -   Modified: `C:\\Users\\YourName\\Videos\\Downloads`
+
+This modification ensures the script correctly interprets the file paths.
+
+### 4\. Prepare the Folders
+
+-   Place the script (`VideoEncoderV2.py`) in any folder you like.
+-   Create a folder where your MP4* (downloaded files) will go, called `INPUT_FOLDER`, and add some MP4* videos to it.
+-   Create another folder where the re-encoded videos will be saved, called `OUTPUT_FOLDER`.
+
+For example:
+
+-   `INPUT_FOLDER`: `C:\\Users\\YourName\\Videos\\Downloads`
+-   `OUTPUT_FOLDER`: `C:\\Users\\YourName\\Videos\\Reencoded`
+
+### 5\. Run the Script
+
+-   Open your command prompt (or terminal).
+-   Navigate to the folder where the script is stored.
+-   Run the script by typing:
+
 `python VideoReEncoder.py `
 
 Alternatively, you can **double-click** the script to run it.
